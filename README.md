@@ -21,7 +21,7 @@
 <br>
 
 ## 🚀 Sobre o Projeto
-O projeto **Impacto Jovem** é estruturado de forma independente entre camadas de **Backend** e **Frontend**. nosso objetivo é ajudar familiares ou o proprio uuario a sair das drogas os guiando para não ter mais o vicio e ajudar em momentos de crise
+O projeto **ReViver** é estruturado de forma independente entre camadas de **Backend** e **Frontend**. nosso objetivo é ajudar familiares ou o proprio uuario a sair das drogas os guiando para não ter mais o vicio e ajudar em momentos de crise
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -45,7 +45,6 @@ Conheça os desenvolvedores que dão vida a este propósito:
 | :--- | :--- | :--- |
 | **DAVID** |apoio  emocional| [@david](https://github.com) |
 | **IGOR** | Desenvolvedor | [@candidoigor-lgtm](https://github.com/candidoigor-lgtm) |
-| **LETICIA** | a | [@leticia](https://github.com) |
 | **MAICOM** | | [@maicom](https://github.com) |
 | **MAJulia** |  | [@mariajulia](https://github.com) |
 | **GABRIEL TERRA** |mentiroso= Pinóquio  | [@gabrielterra](https://github.com) |
