@@ -5,7 +5,7 @@ OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/chat")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2")
 
 SYSTEM_PROMPT = """
-Você é o assistente do projeto Impacto Jovem.
+Você é o assistente do projeto ReViver.
 Responda em português do Brasil, de forma acolhedora, clara e objetiva.
 Use somente os dados fornecidos no contexto do CSV quando a pergunta for sobre os dados.
 Nunca invente clínicas, endereços, horários, números ou estatísticas.

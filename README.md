@@ -1,59 +1,25 @@
-<!-- BANNER SUPERIOR COM FUNDO ROXO NEON -->
-<p align="center">
-  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://w3.org">
-    <defs>
-      <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#6A0DAD;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="100%" rx="15" fill="url(#purpleGrad)" />
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF" letter-spacing="3">
-      IMPACTO JOVEM
-    </text>
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#E0B0FF" opacity="0.9">
-      Módulos de Chatbot, Dashboard e Documentação Técnica
-    </text>
-  </svg>
-</p>
+# ReViver
 
-<br>
+O **ReViver** é um projeto educacional de apoio e informação para pessoas que enfrentam problemas relacionados ao uso de substâncias e para seus familiares. A plataforma oferece orientação geral, chatbot e listagem de serviços de apoio. Ela **não substitui** médicos, psicólogos, CAPS ou outros serviços de saúde.
 
-## 🚀 Sobre o Projeto
-O projeto **Impacto Jovem** é estruturado de forma independente entre camadas de **Backend** e **Frontend**. nosso objetivo é ajudar familiares ou o proprio uuario a sair das drogas os guiando para não ter mais o vicio e ajudar em momentos de crise
----
+## Tecnologias
+- Frontend: HTML, CSS e JavaScript.
+- Backend: Python com Flask.
+- Banco de dados: PostgreSQL.
+- Chatbot opcional: Ollama local.
 
-## 🛠️ Tecnologias Utilizadas
-Uma combinação moderna de ferramentas robustas para processamento e interfaces responsivas:
+## Executar no Linux
+1. Instale Python 3.10+ e PostgreSQL. Para o chatbot, instale e inicie o Ollama separadamente.
+2. Crie um banco chamado `reviver` e configure a variável `DATABASE_URL`, por exemplo: `postgresql://postgres:SUA_SENHA@localhost:5432/reviver`.
+3. Execute o script `database/script_ddl.sql` no banco `reviver`. **Atenção:** esse script apaga e recria o schema `apoio`; faça backup antes de executá-lo em um banco com dados.
+4. Instale as dependências: `python -m venv .venv`, `source .venv/bin/activate` e `pip install -r backend/requirements.txt`.
+5. Inicie a API a partir da pasta do projeto: `python backend/app.py`. A API ficará em `http://127.0.0.1:5000`.
+6. Abra `frontend/index.html` no navegador. Para uso real, sirva o frontend por um servidor HTTP e configure o endereço da API em `localStorage` com a chave `reviver-api`.
 
-* 🐍 **Python (Flask)** — Construção das APIs e regras de negócio do backend.
-* 🌐 **HTML5 / CSS3** — Estruturação e estilização visual das interfaces do usuário.
-* 🗄️ **Banco de Dados SQL** — Persistência estruturada e segurança dos dados consumidos.
+## Ollama (opcional)
+Configure `OLLAMA_URL` e `OLLAMA_MODEL` conforme sua instalação. O modelo padrão é `llama3.2`. Sem Ollama disponível, o backend retorna uma resposta alternativa simples.
 
----
-
-
-```
-
----
-
-## 👥 Colaboradores
-Conheça os desenvolvedores que dão vida a este propósito:
-
-| Nome | Função / Atuação | GitHub |
-| :--- | :--- | :--- |
-| **DAVID** |apoio  emocional| [@david](https://github.com) |
-| **IGOR** | Desenvolvedor | [@candidoigor-lgtm](https://github.com/candidoigor-lgtm) |
-| **LETICIA** | a | [@leticia](https://github.com) |
-| **MAICOM** | | [@maicom](https://github.com) |
-| **MAJulia** |  | [@mariajulia](https://github.com) |
-| **GABRIEL TERRA** |mentiroso= Pinóquio  | [@gabrielterra](https://github.com) |
-| **ANA JULIA SILVA** |  | [@anajulia-silva](https://github.com) |
-| **ANA JULIA TEIXEIRA** | | [@anajulia-teixeira](https://github.com) |
-
----
-
-<p align="center">
-  <sub>Desenvolvido com 💜 pela equipe Impacto Jovem.</sub>
-</p>
+## Observações importantes
+- GitHub Pages hospeda apenas arquivos estáticos; o backend Flask e o PostgreSQL precisam ficar hospedados em um servidor separado para que o site funcione publicamente.
+- Antes de publicar, configure CORS para permitir somente o domínio do frontend e implemente autenticação real com sessão/token. O cabeçalho `X-Usuario-ID` usado neste protótipo não é um mecanismo de autenticação seguro.
+- Não use dados reais sensíveis de saúde em demonstrações escolares.

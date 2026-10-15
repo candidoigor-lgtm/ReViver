@@ -22,6 +22,29 @@
   }
 
   function showError(message) { alert(message); }
+  function validarSenha(senha) {
+    if (senha.length < 8) return 'A senha deve ter pelo menos 8 caracteres.';
+    if (/^(.)\1+$/.test(senha)) return 'Evite repetir o mesmo caractere na senha.';
+    if (/1234|2345|3456|4567|5678|6789|9876|8765|7654|6543|5432|4321/.test(senha)) return 'Evite sequências numéricas previsíveis.';
+    if (/^(password|senha|qwerty|admin|12345678)$/i.test(senha)) return 'Escolha uma senha menos previsível.';
+    const tipos = [/[a-z]/.test(senha), /[A-Z]/.test(senha), /[0-9]/.test(senha), /[^A-Za-z0-9]/.test(senha)].filter(Boolean).length;
+    if (tipos < 3) return 'Misture pelo menos 3 tipos: minúsculas, maiúsculas, números e símbolos.';
+    return '';
+  }
+
+  // Mostrar/ocultar senha sem apagar o conteúdo digitado
+  $$('[data-toggle-password]').forEach(button => {
+    button.addEventListener('click', () => {
+      const field = document.getElementById(button.dataset.togglePassword);
+      if (!field) return;
+      const mostrar = field.type === 'password';
+      field.type = mostrar ? 'text' : 'password';
+      button.textContent = mostrar ? 'Ocultar' : 'Mostrar';
+      button.setAttribute('aria-label', mostrar ? 'Ocultar senha' : 'Mostrar senha');
+      button.setAttribute('aria-pressed', String(mostrar));
+    });
+  });
+
 
   // Cadastro
   const cadastro = $('#cadastroForm');
@@ -33,6 +56,8 @@
       const senha = $('#cadSenha').value;
       const confirm = $('#cadConfirm').value;
       if (senha !== confirm) return showError('As senhas não conferem.');
+      const senhaErro = validarSenha(senha);
+      if (senhaErro) return showError(senhaErro);
       try {
         const data = await api('/api/usuarios', {
           method: 'POST',

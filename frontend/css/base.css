@@ -59,3 +59,8 @@ button{cursor:pointer}
 @media(max-width:650px){.screen{padding:10px}.topbar{height:66px;border-radius:16px 16px 0 0}.brand{font-size:21px}.brand .logo-mark{width:40px;height:40px}.page{padding:25px 12px}.page-title{font-size:35px}.page-subtitle{font-size:16px}.grid-2,.grid-4{grid-template-columns:1fr}.card-link{min-height:145px;padding:20px}.card-link h2{font-size:20px}.landing-inner{padding:15px}.landing-brand h1{font-size:46px}.landing-brand p{font-size:20px}.landing-copy{font-size:20px}.landing-option{min-height:68px}.chat-messages{padding:18px}.message{max-width:88%}.map-layout{gap:14px}.map-box{min-height:360px}.list-card{padding:14px}.distance{font-size:13px}.leaf-watermark{font-size:180px}}
 
 #menu.open{display:block!important}
+
+/* Controles de senha */
+.password-toggle{display:inline-flex;align-items:center;justify-content:center;margin-top:8px;padding:7px 12px;border:1px solid var(--line-soft);border-radius:10px;background:rgba(21,151,255,.12);color:var(--text);font-weight:600;font-size:13px}
+.password-toggle:hover{background:rgba(21,151,255,.24)}
+.field small{display:block;margin-top:6px;color:var(--muted);font-size:12px;line-height:1.45}

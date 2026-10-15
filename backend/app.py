@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 
 import psycopg2
@@ -82,8 +83,12 @@ def criar_usuario():
 
     if not nome or not email or not senha:
         return jsonify({"erro": "Nome, email e senha são obrigatórios."}), 400
-    if len(senha) < 6:
-        return jsonify({"erro": "A senha deve ter pelo menos 6 caracteres."}), 400
+    if len(senha) < 8:
+        return jsonify({"erro": "A senha deve ter pelo menos 8 caracteres."}), 400
+    if re.fullmatch(r"(.)\1+", senha) or re.search(r"1234|2345|3456|4567|5678|6789|9876|8765|7654|6543|5432|4321", senha):
+        return jsonify({"erro": "Evite senhas repetitivas ou sequências numéricas previsíveis."}), 400
+    if len([bool(re.search(pattern, senha)) for pattern in (r"[a-z]", r"[A-Z]", r"[0-9]", r"[^A-Za-z0-9]") if re.search(pattern, senha)]) < 3:
+        return jsonify({"erro": "Misture pelo menos 3 tipos: minúsculas, maiúsculas, números e símbolos."}), 400
 
     try:
         with get_db() as conn:
@@ -117,13 +122,17 @@ def login():
     if not email or not senha:
         return jsonify({"erro": "Email e senha são obrigatórios."}), 400
 
-    with get_db() as conn:
-        with conn.cursor() as cur:
-            cur.execute(
-                "SELECT id, nome_exibicao, email, senha_hash, ativo FROM apoio.usuarios WHERE email=%s",
-                (email,),
-            )
-            usuario = cur.fetchone()
+    try:
+        with get_db() as conn:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "SELECT id, nome_exibicao, email, senha_hash, ativo FROM apoio.usuarios WHERE email=%s",
+                    (email,),
+                )
+                usuario = cur.fetchone()
+    except Exception:
+        app.logger.exception("Falha ao consultar usuário no login")
+        return jsonify({"erro": "Não foi possível acessar o banco de dados. Verifique a configuração do PostgreSQL."}), 503
 
     if not usuario or not usuario["ativo"] or not check_password_hash(usuario["senha_hash"], senha):
         return jsonify({"erro": "Email ou senha incorretos."}), 401
