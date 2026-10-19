@@ -44,6 +44,36 @@ def resumo_fonte(nome):
     }
 
 
+def resumo_qualidade():
+    """Expõe verificações de qualidade sem alterar ou apagar registros da fonte."""
+    fontes = {}
+    for nome in ARQUIVOS:
+        try:
+            df = ler_csv(nome)
+            fontes[nome] = {
+                "arquivo": ARQUIVOS[nome].name,
+                "linhas": int(len(df)),
+                "colunas": int(len(df.columns)),
+                "valores_ausentes_total": int(df.isna().sum().sum()),
+                "valores_ausentes_por_coluna": {
+                    str(coluna): int(qtd)
+                    for coluna, qtd in df.isna().sum().items()
+                },
+                "linhas_duplicadas": int(df.duplicated().sum()),
+                "tipos_detectados": {str(coluna): str(tipo) for coluna, tipo in df.dtypes.items()},
+                "colunas_totalmente_vazias": [
+                    str(coluna) for coluna in df.columns if df[coluna].isna().all()
+                ],
+            }
+        except (OSError, ValueError, pd.errors.ParserError, UnicodeError) as erro:
+            fontes[nome] = {"arquivo": ARQUIVOS[nome].name, "erro": str(erro)}
+    return {
+        "projeto": "ReViver",
+        "observacao": "A análise identifica ausências e duplicações, mas não apaga nem corrige dados automaticamente.",
+        "fontes": fontes,
+    }
+
+
 def resumo_geral():
     fontes = {}
     for nome in ARQUIVOS:

@@ -1,0 +1,34 @@
+{
+  "total_registros": 3,
+  "por_tipo_usuario": [
+    {
+      "categoria": "familiar",
+      "quantidade": 2
+    },
+    {
+      "categoria": "recuperacao",
+      "quantidade": 1
+    }
+  ],
+  "por_objetivo_atendimento": [
+    {
+      "categoria": "informacao",
+      "quantidade": 1
+    },
+    {
+      "categoria": "acompanhamento",
+      "quantidade": 1
+    },
+    {
+      "categoria": "encaminhamento",
+      "quantidade": 1
+    }
+  ],
+  "por_consentimento": [
+    {
+      "categoria": "sim",
+      "quantidade": 3
+    }
+  ],
+  "nota": "A idade está em faixas; não deve ser interpretada como idade exata. IDs são identificadores, não medidas para somar."
+}

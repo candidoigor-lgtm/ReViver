@@ -1,0 +1,26 @@
+{
+  "total_registros_clinica": 2,
+  "por_cidade": [
+    {
+      "categoria": "Curitiba",
+      "quantidade": 2
+    }
+  ],
+  "por_status_atendimento": [
+    {
+      "categoria": "ativo",
+      "quantidade": 2
+    }
+  ],
+  "por_servico": [
+    {
+      "categoria": "Acompanhamento e orientação",
+      "quantidade": 1
+    },
+    {
+      "categoria": "Orientação e encaminhamento",
+      "quantidade": 1
+    }
+  ],
+  "nota": "Vagas disponíveis não são somadas porque a fonte pode conter textos como 'Consultar disponibilidade'. Verifique antes de tratar como número."
+}

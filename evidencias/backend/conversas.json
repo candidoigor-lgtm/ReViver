@@ -1,0 +1,48 @@
+{
+  "total_registros_conversa": 3,
+  "por_categoria": [
+    {
+      "categoria": "familia",
+      "quantidade": 1
+    },
+    {
+      "categoria": "tratamento",
+      "quantidade": 1
+    },
+    {
+      "categoria": "clinica",
+      "quantidade": 1
+    }
+  ],
+  "por_urgencia": [
+    {
+      "categoria": "normal",
+      "quantidade": 2
+    },
+    {
+      "categoria": "atencao",
+      "quantidade": 1
+    }
+  ],
+  "necessita_profissional": [
+    {
+      "categoria": "sim",
+      "quantidade": 2
+    },
+    {
+      "categoria": "nao",
+      "quantidade": 1
+    }
+  ],
+  "encaminhamento_realizado": [
+    {
+      "categoria": "sim",
+      "quantidade": 2
+    },
+    {
+      "categoria": "nao",
+      "quantidade": 1
+    }
+  ],
+  "nota": "A contagem é de registros de conversa, não necessariamente de pessoas distintas. Evite expor perguntas individuais em dashboards públicos."
+}

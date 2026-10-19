@@ -1,0 +1,42 @@
+{
+  "total_registros_substancia": 3,
+  "substancias": [
+    {
+      "substancia": "Alcool",
+      "descricao": "Informações gerais sobre a substância",
+      "efeitos": "Possíveis efeitos",
+      "riscos": "Possíveis riscos",
+      "dependencia": "Potencial de dependencia",
+      "sinais_de_alerta": "Alterações importantes no estado físico ou mental",
+      "quando_buscar_ajuda": "Buscar orientação profissional quando necessário",
+      "fonte": "Fonte educativa",
+      "revisado_por": "Profissional responsável",
+      "data_revisao": "2026-09-18"
+    },
+    {
+      "substancia": "Cocaina",
+      "descricao": "Informações gerais sobre a substância",
+      "efeitos": "Possíveis efeitos",
+      "riscos": "Possíveis riscos",
+      "dependencia": "Potencial de dependencia",
+      "sinais_de_alerta": "Alterações importantes no estado físico ou mental",
+      "quando_buscar_ajuda": "Buscar orientação profissional quando necessário",
+      "fonte": "Fonte educativa",
+      "revisado_por": "Profissional responsável",
+      "data_revisao": "2026-09-18"
+    },
+    {
+      "substancia": "Crack",
+      "descricao": "Informações gerais sobre a substância",
+      "efeitos": "Possíveis efeitos",
+      "riscos": "Possíveis riscos",
+      "dependencia": "Potencial de dependencia",
+      "sinais_de_alerta": "Alterações importantes no estado físico ou mental",
+      "quando_buscar_ajuda": "Buscar orientação profissional quando necessário",
+      "fonte": "Fonte educativa",
+      "revisado_por": "Profissional responsável",
+      "data_revisao": "2026-09-18"
+    }
+  ],
+  "nota": "O CSV contém material educativo. Confira fontes e revisão profissional antes de usar o conteúdo como orientação de saúde."
+}

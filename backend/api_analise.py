@@ -32,7 +32,7 @@ def consultar_resumo():
 
 @app.get("/analise/qualidade")
 def consultar_qualidade():
-    return executar(analise_csv.resumo_geral)
+    return executar(analise_csv.resumo_qualidade)
 
 
 @app.get("/analise/usuarios")

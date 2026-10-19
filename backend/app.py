@@ -25,7 +25,7 @@ def cors(response):
 @app.route("/", methods=["GET"])
 def home():
     return jsonify({
-        "projeto": "Impacto Jovem",
+        "projeto": "ReViver",
         "status": "Online",
         "ia": "Ollama",
         "modelo": "configurado por OLLAMA_MODEL"
