@@ -57,3 +57,18 @@ Conheça os desenvolvedores que dão vida a este propósito:
 <p align="center">
   <sub>Desenvolvido com 💜 pela equipe Impacto Jovem.</sub>
 </p>
+
+## Backend da avaliação de DS
+
+O backend inclui cadastro e consulta de usuários e conversas, com relacionamento por chave estrangeira, além das rotas de análise dos CSVs. O passo a passo está em [`docs/PASSO_A_PASSO_BACKEND_REVIVER.md`](docs/PASSO_A_PASSO_BACKEND_REVIVER.md).
+
+Para iniciar no Linux, abra um terminal em `backend/` e execute:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m uvicorn api_analise:app --reload --host 127.0.0.1 --port 8001
+```
+
+Depois acesse `http://127.0.0.1:8001/docs`. Por padrão, o banco de cadastro usa SQLite local. Os CSVs incluídos são dados sintéticos para testes, não registros reais de pacientes ou clínicas.
