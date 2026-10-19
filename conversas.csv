@@ -1,0 +1,1001 @@
+﻿id_conversa,id_usuario,data_hora,pergunta_usuario,categoria_pergunta,nivel_de_urgencia,necessita_profissional,encaminhamento_realizado
+C001,001,2026-09-18 10:00,Como posso ajudar meu familiar?,familia,normal,nao,nao
+C002,002,2026-09-18 10:15,Preciso de orientação sobre tratamento.,tratamento,atencao,sim,sim
+C003,003,2026-09-18 10:30,Onde posso procurar atendimento?,clinica,normal,sim,sim
+C0004,0282,2026-01-01 01:08,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0005,0693,2026-01-01 01:25,Como conversar sem julgar?,familia,normal,sim,sim
+C0006,0033,2026-01-01 01:42,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0007,0518,2026-01-01 01:59,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0008,0226,2026-01-01 02:16,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0009,0778,2026-01-01 02:33,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0010,0349,2026-01-01 02:50,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0011,0981,2026-01-01 03:07,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0012,0390,2026-01-01 03:24,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0013,0353,2026-01-01 03:41,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0014,0748,2026-01-01 03:58,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0015,0081,2026-01-01 04:15,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0016,0634,2026-01-01 04:32,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0017,0722,2026-01-01 04:49,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0018,0234,2026-01-01 05:06,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0019,0876,2026-01-01 05:23,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,urgente,sim,sim
+C0020,0390,2026-01-01 05:40,Como conversar sem julgar?,familia,atencao,sim,sim
+C0021,0855,2026-01-01 05:57,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0022,0364,2026-01-01 06:14,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0023,0624,2026-01-01 06:31,Como conversar sem julgar?,familia,normal,sim,sim
+C0024,0251,2026-01-01 06:48,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0025,0277,2026-01-01 07:05,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0026,0235,2026-01-01 07:22,Como conversar sem julgar?,familia,normal,sim,sim
+C0027,0411,2026-01-01 07:39,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0028,0936,2026-01-01 07:56,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0029,0512,2026-01-01 08:13,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0030,0659,2026-01-01 08:30,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0031,0253,2026-01-01 08:47,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0032,0439,2026-01-01 09:04,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0033,0142,2026-01-01 09:21,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0034,0882,2026-01-01 09:38,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0035,0164,2026-01-01 09:55,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0036,0395,2026-01-01 10:12,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0037,0480,2026-01-01 10:29,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0038,0882,2026-01-01 10:46,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,urgente,sim,sim
+C0039,0699,2026-01-01 11:03,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0040,0349,2026-01-01 11:20,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0041,0162,2026-01-01 11:37,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0042,0996,2026-01-01 11:54,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0043,0109,2026-01-01 12:11,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0044,0520,2026-01-01 12:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0045,0553,2026-01-01 12:45,Como conversar sem julgar?,familia,normal,sim,sim
+C0046,0020,2026-01-01 13:02,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0047,0900,2026-01-01 13:19,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0048,0247,2026-01-01 13:36,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0049,0498,2026-01-01 13:53,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0050,0546,2026-01-01 14:10,Quais serviços de atendimento posso procurar?,clinica,urgente,sim,sim
+C0051,0487,2026-01-01 14:27,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0052,0894,2026-01-01 14:44,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0053,0952,2026-01-01 15:01,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0054,0688,2026-01-01 15:18,Como conversar sem julgar?,familia,normal,nao,nao
+C0055,0530,2026-01-01 15:35,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0056,0066,2026-01-01 15:52,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0057,0568,2026-01-01 16:09,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0058,0073,2026-01-01 16:26,Como conversar sem julgar?,familia,normal,sim,sim
+C0059,0881,2026-01-01 16:43,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0060,0244,2026-01-01 17:00,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0061,0220,2026-01-01 17:17,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0062,0904,2026-01-01 17:34,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0063,0827,2026-01-01 17:51,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0064,0100,2026-01-01 18:08,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0065,0421,2026-01-01 18:25,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0066,0056,2026-01-01 18:42,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0067,0746,2026-01-01 18:59,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0068,0112,2026-01-01 19:16,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0069,0144,2026-01-01 19:33,Como conversar sem julgar?,familia,normal,nao,nao
+C0070,0474,2026-01-01 19:50,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0071,0078,2026-01-01 20:07,Como conversar sem julgar?,familia,atencao,sim,sim
+C0072,0877,2026-01-01 20:24,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0073,0554,2026-01-01 20:41,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0074,0949,2026-01-01 20:58,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0075,0493,2026-01-01 21:15,Como conversar sem julgar?,familia,normal,nao,nao
+C0076,0925,2026-01-01 21:32,Como conversar sem julgar?,familia,atencao,sim,sim
+C0077,0400,2026-01-01 21:49,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0078,0804,2026-01-01 22:06,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0079,0159,2026-01-01 22:23,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0080,0594,2026-01-01 22:40,Como conversar sem julgar?,familia,normal,sim,sim
+C0081,0052,2026-01-01 22:57,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0082,0059,2026-01-01 23:14,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0083,0071,2026-01-01 23:31,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0084,0241,2026-01-01 23:48,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0085,0912,2026-01-02 00:05,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0086,0635,2026-01-02 00:22,Como conversar sem julgar?,familia,normal,sim,sim
+C0087,0598,2026-01-02 00:39,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0088,0210,2026-01-02 00:56,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0089,0406,2026-01-02 01:13,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0090,0308,2026-01-02 01:30,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0091,0010,2026-01-02 01:47,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0092,0076,2026-01-02 02:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0093,0956,2026-01-02 02:21,Como conversar sem julgar?,familia,normal,sim,sim
+C0094,0901,2026-01-02 02:38,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0095,0449,2026-01-02 02:55,Como conversar sem julgar?,familia,normal,sim,sim
+C0096,0827,2026-01-02 03:12,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0097,0955,2026-01-02 03:29,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0098,0138,2026-01-02 03:46,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0099,0110,2026-01-02 04:03,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0100,0620,2026-01-02 04:20,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0101,0704,2026-01-02 04:37,Como conversar sem julgar?,familia,normal,sim,sim
+C0102,0258,2026-01-02 04:54,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0103,0850,2026-01-02 05:11,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0104,0342,2026-01-02 05:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0105,0269,2026-01-02 05:45,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0106,0565,2026-01-02 06:02,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0107,0115,2026-01-02 06:19,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0108,0708,2026-01-02 06:36,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0109,0855,2026-01-02 06:53,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0110,0152,2026-01-02 07:10,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0111,0316,2026-01-02 07:27,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0112,0816,2026-01-02 07:44,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0113,0216,2026-01-02 08:01,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0114,0799,2026-01-02 08:18,Como conversar sem julgar?,familia,normal,nao,nao
+C0115,0768,2026-01-02 08:35,Como encontrar apoio na minha região?,clinica,urgente,sim,sim
+C0116,0243,2026-01-02 08:52,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0117,0831,2026-01-02 09:09,Preciso de orientação para buscar ajuda.,tratamento,urgente,sim,sim
+C0118,0026,2026-01-02 09:26,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0119,0341,2026-01-02 09:43,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0120,0885,2026-01-02 10:00,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0121,0392,2026-01-02 10:17,Como conversar sem julgar?,familia,normal,sim,sim
+C0122,0228,2026-01-02 10:34,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0123,0472,2026-01-02 10:51,Como conversar sem julgar?,familia,atencao,sim,sim
+C0124,0815,2026-01-02 11:08,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0125,0409,2026-01-02 11:25,Como conversar sem julgar?,familia,normal,sim,sim
+C0126,0072,2026-01-02 11:42,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0127,0522,2026-01-02 11:59,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0128,0864,2026-01-02 12:16,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0129,0119,2026-01-02 12:33,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0130,0986,2026-01-02 12:50,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0131,0611,2026-01-02 13:07,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0132,0806,2026-01-02 13:24,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0133,0524,2026-01-02 13:41,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0134,0591,2026-01-02 13:58,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0135,0002,2026-01-02 14:15,Como conversar sem julgar?,familia,normal,nao,nao
+C0136,0972,2026-01-02 14:32,Como conversar sem julgar?,familia,normal,sim,sim
+C0137,0680,2026-01-02 14:49,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0138,0308,2026-01-02 15:06,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0139,0335,2026-01-02 15:23,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0140,0568,2026-01-02 15:40,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0141,0681,2026-01-02 15:57,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0142,0925,2026-01-02 16:14,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0143,0309,2026-01-02 16:31,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0144,0001,2026-01-02 16:48,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0145,0441,2026-01-02 17:05,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0146,0453,2026-01-02 17:22,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0147,0675,2026-01-02 17:39,Como conversar sem julgar?,familia,normal,sim,sim
+C0148,0680,2026-01-02 17:56,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0149,0975,2026-01-02 18:13,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0150,0826,2026-01-02 18:30,Como conversar sem julgar?,familia,normal,sim,sim
+C0151,0251,2026-01-02 18:47,Como conversar sem julgar?,familia,normal,sim,sim
+C0152,0467,2026-01-02 19:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0153,0590,2026-01-02 19:21,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0154,0507,2026-01-02 19:38,Como conversar sem julgar?,familia,normal,nao,nao
+C0155,0672,2026-01-02 19:55,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0156,0882,2026-01-02 20:12,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0157,0225,2026-01-02 20:29,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0158,0713,2026-01-02 20:46,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0159,0940,2026-01-02 21:03,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0160,0821,2026-01-02 21:20,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0161,0973,2026-01-02 21:37,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0162,0851,2026-01-02 21:54,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0163,0762,2026-01-02 22:11,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0164,0861,2026-01-02 22:28,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0165,0534,2026-01-02 22:45,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0166,0451,2026-01-02 23:02,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0167,0241,2026-01-02 23:19,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0168,0915,2026-01-02 23:36,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0169,0237,2026-01-02 23:53,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0170,0724,2026-01-03 00:10,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0171,0339,2026-01-03 00:27,Como conversar sem julgar?,familia,normal,nao,nao
+C0172,0853,2026-01-03 00:44,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0173,0789,2026-01-03 01:01,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0174,0784,2026-01-03 01:18,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0175,0966,2026-01-03 01:35,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0176,0400,2026-01-03 01:52,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0177,0753,2026-01-03 02:09,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0178,0447,2026-01-03 02:26,Como conversar sem julgar?,familia,normal,nao,nao
+C0179,0685,2026-01-03 02:43,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0180,0861,2026-01-03 03:00,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0181,0638,2026-01-03 03:17,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0182,0607,2026-01-03 03:34,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0183,0139,2026-01-03 03:51,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0184,0389,2026-01-03 04:08,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0185,0335,2026-01-03 04:25,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0186,0389,2026-01-03 04:42,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0187,0852,2026-01-03 04:59,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0188,0084,2026-01-03 05:16,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0189,0975,2026-01-03 05:33,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0190,0071,2026-01-03 05:50,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0191,0973,2026-01-03 06:07,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0192,0637,2026-01-03 06:24,Como conversar sem julgar?,familia,normal,sim,sim
+C0193,0485,2026-01-03 06:41,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0194,0224,2026-01-03 06:58,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0195,0172,2026-01-03 07:15,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0196,0168,2026-01-03 07:32,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0197,0027,2026-01-03 07:49,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0198,0930,2026-01-03 08:06,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0199,0733,2026-01-03 08:23,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0200,0105,2026-01-03 08:40,Como conversar sem julgar?,familia,normal,sim,sim
+C0201,0615,2026-01-03 08:57,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0202,0580,2026-01-03 09:14,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0203,0678,2026-01-03 09:31,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0204,0664,2026-01-03 09:48,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0205,0431,2026-01-03 10:05,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0206,0651,2026-01-03 10:22,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0207,0181,2026-01-03 10:39,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0208,0942,2026-01-03 10:56,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0209,0331,2026-01-03 11:13,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0210,0089,2026-01-03 11:30,Como conversar sem julgar?,familia,atencao,sim,sim
+C0211,0250,2026-01-03 11:47,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0212,0345,2026-01-03 12:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0213,0187,2026-01-03 12:21,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0214,0349,2026-01-03 12:38,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0215,0719,2026-01-03 12:55,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0216,0530,2026-01-03 13:12,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0217,0501,2026-01-03 13:29,Como conversar sem julgar?,familia,normal,nao,nao
+C0218,0459,2026-01-03 13:46,Como conversar sem julgar?,familia,normal,nao,nao
+C0219,0415,2026-01-03 14:03,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0220,0485,2026-01-03 14:20,Como conversar sem julgar?,familia,normal,nao,nao
+C0221,0764,2026-01-03 14:37,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0222,0465,2026-01-03 14:54,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0223,0237,2026-01-03 15:11,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0224,0324,2026-01-03 15:28,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0225,0974,2026-01-03 15:45,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0226,0757,2026-01-03 16:02,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0227,0103,2026-01-03 16:19,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0228,0184,2026-01-03 16:36,Como conversar sem julgar?,familia,normal,nao,nao
+C0229,0547,2026-01-03 16:53,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0230,0998,2026-01-03 17:10,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0231,0654,2026-01-03 17:27,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0232,0588,2026-01-03 17:44,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0233,0452,2026-01-03 18:01,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0234,0053,2026-01-03 18:18,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0235,0490,2026-01-03 18:35,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0236,0411,2026-01-03 18:52,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0237,0156,2026-01-03 19:09,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0238,0972,2026-01-03 19:26,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0239,0255,2026-01-03 19:43,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0240,0427,2026-01-03 20:00,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0241,0390,2026-01-03 20:17,Como conversar sem julgar?,familia,atencao,sim,sim
+C0242,0305,2026-01-03 20:34,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0243,0636,2026-01-03 20:51,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0244,0971,2026-01-03 21:08,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0245,0677,2026-01-03 21:25,Como conversar sem julgar?,familia,normal,nao,nao
+C0246,0178,2026-01-03 21:42,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0247,0419,2026-01-03 21:59,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0248,0299,2026-01-03 22:16,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0249,0720,2026-01-03 22:33,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0250,0947,2026-01-03 22:50,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0251,0641,2026-01-03 23:07,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0252,0664,2026-01-03 23:24,Como conversar sem julgar?,familia,normal,sim,sim
+C0253,0847,2026-01-03 23:41,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0254,0170,2026-01-03 23:58,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0255,0845,2026-01-04 00:15,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0256,0480,2026-01-04 00:32,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0257,0966,2026-01-04 00:49,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0258,0506,2026-01-04 01:06,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0259,0911,2026-01-04 01:23,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0260,0619,2026-01-04 01:40,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0261,0235,2026-01-04 01:57,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0262,0689,2026-01-04 02:14,Como posso apoiar meu familiar?,familia,urgente,sim,sim
+C0263,0782,2026-01-04 02:31,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0264,0668,2026-01-04 02:48,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0265,0186,2026-01-04 03:05,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0266,0504,2026-01-04 03:22,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0267,0419,2026-01-04 03:39,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0268,0108,2026-01-04 03:56,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0269,0711,2026-01-04 04:13,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0270,0834,2026-01-04 04:30,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0271,0259,2026-01-04 04:47,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0272,0792,2026-01-04 05:04,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0273,0845,2026-01-04 05:21,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0274,0424,2026-01-04 05:38,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0275,0638,2026-01-04 05:55,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0276,0209,2026-01-04 06:12,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0277,0950,2026-01-04 06:29,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0278,0716,2026-01-04 06:46,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0279,0727,2026-01-04 07:03,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0280,0015,2026-01-04 07:20,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0281,0862,2026-01-04 07:37,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0282,0121,2026-01-04 07:54,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0283,0734,2026-01-04 08:11,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0284,0280,2026-01-04 08:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0285,0484,2026-01-04 08:45,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0286,0393,2026-01-04 09:02,Como conversar sem julgar?,familia,normal,sim,sim
+C0287,0521,2026-01-04 09:19,Como conversar sem julgar?,familia,atencao,sim,sim
+C0288,0283,2026-01-04 09:36,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0289,0807,2026-01-04 09:53,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0290,0290,2026-01-04 10:10,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0291,0594,2026-01-04 10:27,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0292,0458,2026-01-04 10:44,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0293,0467,2026-01-04 11:01,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0294,0715,2026-01-04 11:18,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0295,0877,2026-01-04 11:35,Como conversar sem julgar?,familia,normal,sim,sim
+C0296,0763,2026-01-04 11:52,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0297,0396,2026-01-04 12:09,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0298,0038,2026-01-04 12:26,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0299,0605,2026-01-04 12:43,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0300,0896,2026-01-04 13:00,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0301,0016,2026-01-04 13:17,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0302,0671,2026-01-04 13:34,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0303,0801,2026-01-04 13:51,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0304,0710,2026-01-04 14:08,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0305,0873,2026-01-04 14:25,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0306,0880,2026-01-04 14:42,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0307,0642,2026-01-04 14:59,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0308,0037,2026-01-04 15:16,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0309,0701,2026-01-04 15:33,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0310,0765,2026-01-04 15:50,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,urgente,sim,sim
+C0311,0101,2026-01-04 16:07,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0312,0711,2026-01-04 16:24,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0313,0048,2026-01-04 16:41,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0314,0301,2026-01-04 16:58,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0315,0150,2026-01-04 17:15,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0316,0175,2026-01-04 17:32,Como conversar sem julgar?,familia,normal,sim,sim
+C0317,0892,2026-01-04 17:49,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0318,0247,2026-01-04 18:06,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0319,0147,2026-01-04 18:23,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0320,0471,2026-01-04 18:40,Como conversar sem julgar?,familia,normal,nao,nao
+C0321,0921,2026-01-04 18:57,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0322,0694,2026-01-04 19:14,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0323,0968,2026-01-04 19:31,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0324,0307,2026-01-04 19:48,Quero entender melhor o acompanhamento.,tratamento,urgente,sim,sim
+C0325,0468,2026-01-04 20:05,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0326,0394,2026-01-04 20:22,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0327,0586,2026-01-04 20:39,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0328,0717,2026-01-04 20:56,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0329,0850,2026-01-04 21:13,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0330,0580,2026-01-04 21:30,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0331,0764,2026-01-04 21:47,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0332,0925,2026-01-04 22:04,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0333,0236,2026-01-04 22:21,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0334,0195,2026-01-04 22:38,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0335,0739,2026-01-04 22:55,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0336,0926,2026-01-04 23:12,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0337,0035,2026-01-04 23:29,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0338,0093,2026-01-04 23:46,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0339,0426,2026-01-05 00:03,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0340,0806,2026-01-05 00:20,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0341,0936,2026-01-05 00:37,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0342,0264,2026-01-05 00:54,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0343,0303,2026-01-05 01:11,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0344,0480,2026-01-05 01:28,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0345,0990,2026-01-05 01:45,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0346,0742,2026-01-05 02:02,Como conversar sem julgar?,familia,atencao,sim,sim
+C0347,0824,2026-01-05 02:19,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0348,0405,2026-01-05 02:36,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0349,0466,2026-01-05 02:53,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0350,0689,2026-01-05 03:10,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0351,0843,2026-01-05 03:27,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0352,0240,2026-01-05 03:44,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0353,0938,2026-01-05 04:01,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0354,0932,2026-01-05 04:18,Como conversar sem julgar?,familia,normal,nao,nao
+C0355,0120,2026-01-05 04:35,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0356,0039,2026-01-05 04:52,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0357,0119,2026-01-05 05:09,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,urgente,sim,sim
+C0358,0551,2026-01-05 05:26,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0359,0380,2026-01-05 05:43,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0360,0745,2026-01-05 06:00,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0361,0671,2026-01-05 06:17,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0362,0631,2026-01-05 06:34,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0363,0287,2026-01-05 06:51,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0364,0455,2026-01-05 07:08,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0365,0876,2026-01-05 07:25,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0366,0703,2026-01-05 07:42,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0367,0661,2026-01-05 07:59,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0368,0283,2026-01-05 08:16,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0369,0972,2026-01-05 08:33,Como conversar sem julgar?,familia,atencao,sim,sim
+C0370,0658,2026-01-05 08:50,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0371,0250,2026-01-05 09:07,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0372,0211,2026-01-05 09:24,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0373,0568,2026-01-05 09:41,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0374,0337,2026-01-05 09:58,Como conversar sem julgar?,familia,normal,sim,sim
+C0375,0611,2026-01-05 10:15,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0376,0134,2026-01-05 10:32,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0377,0113,2026-01-05 10:49,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0378,0809,2026-01-05 11:06,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0379,0179,2026-01-05 11:23,Como conversar sem julgar?,familia,normal,sim,sim
+C0380,0760,2026-01-05 11:40,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0381,0764,2026-01-05 11:57,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0382,0797,2026-01-05 12:14,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0383,0112,2026-01-05 12:31,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0384,0745,2026-01-05 12:48,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0385,0988,2026-01-05 13:05,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0386,0868,2026-01-05 13:22,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0387,0111,2026-01-05 13:39,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0388,0076,2026-01-05 13:56,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0389,0152,2026-01-05 14:13,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0390,0640,2026-01-05 14:30,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0391,0612,2026-01-05 14:47,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0392,0620,2026-01-05 15:04,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0393,0719,2026-01-05 15:21,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0394,0667,2026-01-05 15:38,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0395,0424,2026-01-05 15:55,Como conversar sem julgar?,familia,normal,sim,sim
+C0396,0409,2026-01-05 16:12,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0397,0321,2026-01-05 16:29,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0398,0262,2026-01-05 16:46,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0399,0704,2026-01-05 17:03,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0400,0096,2026-01-05 17:20,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0401,0757,2026-01-05 17:37,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0402,0570,2026-01-05 17:54,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0403,0687,2026-01-05 18:11,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0404,0895,2026-01-05 18:28,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0405,0739,2026-01-05 18:45,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0406,0615,2026-01-05 19:02,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0407,0592,2026-01-05 19:19,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0408,0230,2026-01-05 19:36,Como conversar sem julgar?,familia,normal,nao,nao
+C0409,0570,2026-01-05 19:53,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0410,0286,2026-01-05 20:10,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0411,0866,2026-01-05 20:27,Como conversar sem julgar?,familia,atencao,sim,sim
+C0412,0030,2026-01-05 20:44,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0413,0781,2026-01-05 21:01,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0414,0360,2026-01-05 21:18,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0415,0580,2026-01-05 21:35,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0416,0759,2026-01-05 21:52,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0417,0386,2026-01-05 22:09,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0418,0162,2026-01-05 22:26,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0419,0333,2026-01-05 22:43,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0420,0160,2026-01-05 23:00,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0421,0051,2026-01-05 23:17,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0422,0678,2026-01-05 23:34,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0423,0453,2026-01-05 23:51,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0424,0774,2026-01-06 00:08,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0425,0114,2026-01-06 00:25,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0426,0608,2026-01-06 00:42,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0427,0047,2026-01-06 00:59,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0428,0008,2026-01-06 01:16,Como conversar sem julgar?,familia,normal,sim,sim
+C0429,0786,2026-01-06 01:33,Como conversar sem julgar?,familia,normal,sim,sim
+C0430,0297,2026-01-06 01:50,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0431,0510,2026-01-06 02:07,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0432,0390,2026-01-06 02:24,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0433,0074,2026-01-06 02:41,Como conversar sem julgar?,familia,normal,nao,nao
+C0434,0044,2026-01-06 02:58,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0435,0944,2026-01-06 03:15,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0436,0590,2026-01-06 03:32,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0437,0727,2026-01-06 03:49,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0438,0415,2026-01-06 04:06,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0439,0176,2026-01-06 04:23,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0440,0942,2026-01-06 04:40,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0441,0865,2026-01-06 04:57,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0442,0604,2026-01-06 05:14,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0443,0406,2026-01-06 05:31,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0444,0227,2026-01-06 05:48,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0445,0079,2026-01-06 06:05,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0446,0199,2026-01-06 06:22,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0447,0982,2026-01-06 06:39,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0448,0150,2026-01-06 06:56,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0449,0617,2026-01-06 07:13,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0450,0672,2026-01-06 07:30,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0451,0792,2026-01-06 07:47,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0452,0698,2026-01-06 08:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0453,0643,2026-01-06 08:21,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0454,0070,2026-01-06 08:38,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0455,0816,2026-01-06 08:55,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0456,0361,2026-01-06 09:12,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0457,0463,2026-01-06 09:29,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0458,0079,2026-01-06 09:46,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0459,0520,2026-01-06 10:03,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0460,0568,2026-01-06 10:20,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0461,0330,2026-01-06 10:37,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0462,0462,2026-01-06 10:54,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0463,0858,2026-01-06 11:11,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0464,0087,2026-01-06 11:28,Quero entender melhor o acompanhamento.,tratamento,urgente,sim,sim
+C0465,0725,2026-01-06 11:45,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0466,0537,2026-01-06 12:02,Preciso conversar com alguém capacitado.,apoio_emocional,urgente,sim,sim
+C0467,0940,2026-01-06 12:19,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0468,0794,2026-01-06 12:36,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0469,0054,2026-01-06 12:53,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0470,0097,2026-01-06 13:10,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0471,0742,2026-01-06 13:27,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0472,0597,2026-01-06 13:44,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0473,0318,2026-01-06 14:01,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0474,0726,2026-01-06 14:18,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0475,0386,2026-01-06 14:35,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0476,0687,2026-01-06 14:52,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0477,0434,2026-01-06 15:09,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0478,0317,2026-01-06 15:26,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0479,0350,2026-01-06 15:43,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0480,0159,2026-01-06 16:00,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0481,0808,2026-01-06 16:17,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0482,0553,2026-01-06 16:34,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0483,0612,2026-01-06 16:51,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0484,0186,2026-01-06 17:08,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0485,0045,2026-01-06 17:25,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0486,0737,2026-01-06 17:42,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0487,0626,2026-01-06 17:59,Como conversar sem julgar?,familia,atencao,sim,sim
+C0488,0803,2026-01-06 18:16,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0489,0317,2026-01-06 18:33,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0490,0199,2026-01-06 18:50,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0491,0585,2026-01-06 19:07,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0492,0797,2026-01-06 19:24,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0493,0429,2026-01-06 19:41,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0494,0821,2026-01-06 19:58,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0495,0054,2026-01-06 20:15,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0496,0568,2026-01-06 20:32,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0497,0529,2026-01-06 20:49,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0498,0782,2026-01-06 21:06,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0499,0928,2026-01-06 21:23,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0500,0094,2026-01-06 21:40,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0501,0906,2026-01-06 21:57,Como conversar sem julgar?,familia,atencao,sim,sim
+C0502,0425,2026-01-06 22:14,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0503,0242,2026-01-06 22:31,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0504,0384,2026-01-06 22:48,Como encontrar apoio na minha região?,clinica,urgente,sim,sim
+C0505,0860,2026-01-06 23:05,Como conversar sem julgar?,familia,normal,sim,sim
+C0506,0141,2026-01-06 23:22,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0507,0713,2026-01-06 23:39,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0508,0481,2026-01-06 23:56,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0509,0020,2026-01-07 00:13,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0510,0154,2026-01-07 00:30,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0511,0296,2026-01-07 00:47,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0512,0245,2026-01-07 01:04,Como conversar sem julgar?,familia,normal,sim,sim
+C0513,0638,2026-01-07 01:21,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0514,0612,2026-01-07 01:38,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0515,0736,2026-01-07 01:55,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0516,0002,2026-01-07 02:12,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0517,0427,2026-01-07 02:29,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0518,0088,2026-01-07 02:46,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0519,0539,2026-01-07 03:03,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0520,0045,2026-01-07 03:20,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0521,0260,2026-01-07 03:37,Como encontrar apoio na minha região?,clinica,urgente,sim,sim
+C0522,0354,2026-01-07 03:54,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0523,0791,2026-01-07 04:11,Como conversar sem julgar?,familia,normal,sim,sim
+C0524,0361,2026-01-07 04:28,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0525,0180,2026-01-07 04:45,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0526,0491,2026-01-07 05:02,Preciso conversar com alguém capacitado.,apoio_emocional,urgente,sim,sim
+C0527,0065,2026-01-07 05:19,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0528,0045,2026-01-07 05:36,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0529,0324,2026-01-07 05:53,Como conversar sem julgar?,familia,atencao,sim,sim
+C0530,0835,2026-01-07 06:10,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0531,0293,2026-01-07 06:27,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0532,0049,2026-01-07 06:44,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0533,0819,2026-01-07 07:01,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0534,0410,2026-01-07 07:18,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0535,0396,2026-01-07 07:35,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0536,0509,2026-01-07 07:52,Quero entender melhor o acompanhamento.,tratamento,urgente,sim,sim
+C0537,0821,2026-01-07 08:09,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0538,0081,2026-01-07 08:26,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0539,0843,2026-01-07 08:43,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0540,0329,2026-01-07 09:00,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0541,0677,2026-01-07 09:17,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0542,0618,2026-01-07 09:34,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0543,0455,2026-01-07 09:51,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0544,0745,2026-01-07 10:08,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0545,0446,2026-01-07 10:25,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0546,0811,2026-01-07 10:42,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0547,0373,2026-01-07 10:59,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0548,0147,2026-01-07 11:16,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0549,0242,2026-01-07 11:33,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0550,0973,2026-01-07 11:50,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0551,0972,2026-01-07 12:07,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0552,0782,2026-01-07 12:24,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0553,0543,2026-01-07 12:41,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0554,0666,2026-01-07 12:58,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0555,0117,2026-01-07 13:15,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0556,0531,2026-01-07 13:32,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0557,0121,2026-01-07 13:49,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0558,0721,2026-01-07 14:06,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0559,0711,2026-01-07 14:23,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0560,0874,2026-01-07 14:40,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0561,0921,2026-01-07 14:57,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0562,0830,2026-01-07 15:14,Preciso conversar com alguém capacitado.,apoio_emocional,urgente,sim,sim
+C0563,0727,2026-01-07 15:31,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0564,0298,2026-01-07 15:48,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0565,0729,2026-01-07 16:05,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0566,0521,2026-01-07 16:22,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0567,0812,2026-01-07 16:39,Como conversar sem julgar?,familia,normal,sim,sim
+C0568,0506,2026-01-07 16:56,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0569,0479,2026-01-07 17:13,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0570,0089,2026-01-07 17:30,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0571,0735,2026-01-07 17:47,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0572,0844,2026-01-07 18:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0573,0325,2026-01-07 18:21,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0574,0697,2026-01-07 18:38,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0575,0849,2026-01-07 18:55,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0576,0133,2026-01-07 19:12,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0577,0890,2026-01-07 19:29,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0578,0531,2026-01-07 19:46,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0579,0166,2026-01-07 20:03,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0580,0231,2026-01-07 20:20,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0581,0532,2026-01-07 20:37,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0582,0257,2026-01-07 20:54,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0583,0129,2026-01-07 21:11,Como conversar sem julgar?,familia,normal,nao,nao
+C0584,0096,2026-01-07 21:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0585,0595,2026-01-07 21:45,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0586,0640,2026-01-07 22:02,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0587,0578,2026-01-07 22:19,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0588,0030,2026-01-07 22:36,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0589,0657,2026-01-07 22:53,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0590,0786,2026-01-07 23:10,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0591,0032,2026-01-07 23:27,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0592,0559,2026-01-07 23:44,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0593,0310,2026-01-08 00:01,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0594,0305,2026-01-08 00:18,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0595,0162,2026-01-08 00:35,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0596,0209,2026-01-08 00:52,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0597,0321,2026-01-08 01:09,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0598,0882,2026-01-08 01:26,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0599,0134,2026-01-08 01:43,Quero entender melhor o acompanhamento.,tratamento,urgente,sim,sim
+C0600,0109,2026-01-08 02:00,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0601,0126,2026-01-08 02:17,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0602,0145,2026-01-08 02:34,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0603,0969,2026-01-08 02:51,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0604,0429,2026-01-08 03:08,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0605,0924,2026-01-08 03:25,Como conversar sem julgar?,familia,atencao,sim,sim
+C0606,0957,2026-01-08 03:42,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0607,0164,2026-01-08 03:59,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0608,0479,2026-01-08 04:16,Preciso conversar com alguém capacitado.,apoio_emocional,urgente,sim,sim
+C0609,0510,2026-01-08 04:33,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0610,0518,2026-01-08 04:50,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0611,0221,2026-01-08 05:07,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0612,0289,2026-01-08 05:24,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0613,0293,2026-01-08 05:41,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0614,0442,2026-01-08 05:58,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0615,0745,2026-01-08 06:15,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0616,0375,2026-01-08 06:32,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0617,0372,2026-01-08 06:49,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0618,0517,2026-01-08 07:06,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0619,0287,2026-01-08 07:23,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0620,0100,2026-01-08 07:40,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0621,0348,2026-01-08 07:57,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0622,0204,2026-01-08 08:14,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0623,0047,2026-01-08 08:31,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0624,0824,2026-01-08 08:48,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0625,0621,2026-01-08 09:05,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0626,0628,2026-01-08 09:22,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0627,0632,2026-01-08 09:39,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0628,0520,2026-01-08 09:56,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0629,0487,2026-01-08 10:13,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0630,0427,2026-01-08 10:30,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0631,0743,2026-01-08 10:47,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0632,0991,2026-01-08 11:04,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0633,0175,2026-01-08 11:21,Como conversar sem julgar?,familia,normal,nao,nao
+C0634,0698,2026-01-08 11:38,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0635,0196,2026-01-08 11:55,Como conversar sem julgar?,familia,normal,sim,sim
+C0636,0156,2026-01-08 12:12,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0637,0421,2026-01-08 12:29,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0638,0754,2026-01-08 12:46,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0639,0575,2026-01-08 13:03,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0640,0490,2026-01-08 13:20,Quero entender melhor o acompanhamento.,tratamento,urgente,sim,sim
+C0641,0178,2026-01-08 13:37,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0642,0351,2026-01-08 13:54,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0643,0889,2026-01-08 14:11,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0644,0197,2026-01-08 14:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0645,0231,2026-01-08 14:45,Como conversar sem julgar?,familia,normal,nao,nao
+C0646,0722,2026-01-08 15:02,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0647,0325,2026-01-08 15:19,Como conversar sem julgar?,familia,normal,nao,nao
+C0648,0295,2026-01-08 15:36,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0649,0557,2026-01-08 15:53,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0650,0405,2026-01-08 16:10,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0651,0824,2026-01-08 16:27,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0652,0295,2026-01-08 16:44,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0653,0453,2026-01-08 17:01,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0654,0220,2026-01-08 17:18,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0655,0278,2026-01-08 17:35,Como conversar sem julgar?,familia,atencao,sim,sim
+C0656,0631,2026-01-08 17:52,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0657,0654,2026-01-08 18:09,Como conversar sem julgar?,familia,normal,sim,sim
+C0658,0339,2026-01-08 18:26,Como conversar sem julgar?,familia,normal,nao,nao
+C0659,0006,2026-01-08 18:43,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0660,0958,2026-01-08 19:00,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0661,0775,2026-01-08 19:17,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0662,0662,2026-01-08 19:34,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0663,0092,2026-01-08 19:51,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0664,0936,2026-01-08 20:08,Como conversar sem julgar?,familia,normal,sim,sim
+C0665,0858,2026-01-08 20:25,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0666,0038,2026-01-08 20:42,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0667,0191,2026-01-08 20:59,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0668,0010,2026-01-08 21:16,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0669,0110,2026-01-08 21:33,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0670,0657,2026-01-08 21:50,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0671,0138,2026-01-08 22:07,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0672,0339,2026-01-08 22:24,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0673,0664,2026-01-08 22:41,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0674,0015,2026-01-08 22:58,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0675,0582,2026-01-08 23:15,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0676,0847,2026-01-08 23:32,Como conversar sem julgar?,familia,normal,nao,nao
+C0677,0089,2026-01-08 23:49,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0678,0190,2026-01-09 00:06,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0679,0959,2026-01-09 00:23,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0680,0242,2026-01-09 00:40,Como conversar sem julgar?,familia,normal,nao,nao
+C0681,0977,2026-01-09 00:57,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0682,0741,2026-01-09 01:14,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0683,0710,2026-01-09 01:31,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0684,0477,2026-01-09 01:48,Como conversar sem julgar?,familia,normal,sim,sim
+C0685,0703,2026-01-09 02:05,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0686,0655,2026-01-09 02:22,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0687,0227,2026-01-09 02:39,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0688,0490,2026-01-09 02:56,Como conversar sem julgar?,familia,atencao,sim,sim
+C0689,0621,2026-01-09 03:13,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0690,0563,2026-01-09 03:30,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0691,0822,2026-01-09 03:47,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0692,0697,2026-01-09 04:04,Como conversar sem julgar?,familia,atencao,sim,sim
+C0693,0541,2026-01-09 04:21,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0694,0578,2026-01-09 04:38,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0695,0561,2026-01-09 04:55,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0696,0169,2026-01-09 05:12,Como conversar sem julgar?,familia,normal,sim,sim
+C0697,0453,2026-01-09 05:29,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0698,0735,2026-01-09 05:46,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0699,0829,2026-01-09 06:03,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0700,0468,2026-01-09 06:20,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0701,0741,2026-01-09 06:37,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0702,0764,2026-01-09 06:54,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0703,0434,2026-01-09 07:11,Como conversar sem julgar?,familia,normal,sim,sim
+C0704,0555,2026-01-09 07:28,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0705,0071,2026-01-09 07:45,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0706,0185,2026-01-09 08:02,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0707,0747,2026-01-09 08:19,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0708,0913,2026-01-09 08:36,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0709,0940,2026-01-09 08:53,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0710,0700,2026-01-09 09:10,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0711,0357,2026-01-09 09:27,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0712,0551,2026-01-09 09:44,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0713,0746,2026-01-09 10:01,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0714,0775,2026-01-09 10:18,Como conversar sem julgar?,familia,atencao,sim,sim
+C0715,0475,2026-01-09 10:35,Como posso apoiar meu familiar?,familia,urgente,sim,sim
+C0716,0844,2026-01-09 10:52,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0717,0159,2026-01-09 11:09,Como conversar sem julgar?,familia,normal,nao,nao
+C0718,0897,2026-01-09 11:26,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0719,0677,2026-01-09 11:43,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0720,0959,2026-01-09 12:00,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0721,0104,2026-01-09 12:17,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0722,0251,2026-01-09 12:34,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0723,0553,2026-01-09 12:51,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0724,0795,2026-01-09 13:08,Como conversar sem julgar?,familia,atencao,sim,sim
+C0725,0240,2026-01-09 13:25,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0726,0792,2026-01-09 13:42,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0727,0898,2026-01-09 13:59,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0728,0534,2026-01-09 14:16,Preciso de orientação para buscar ajuda.,tratamento,urgente,sim,sim
+C0729,0063,2026-01-09 14:33,Como conversar sem julgar?,familia,normal,nao,nao
+C0730,0438,2026-01-09 14:50,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0731,0965,2026-01-09 15:07,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0732,0327,2026-01-09 15:24,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0733,0308,2026-01-09 15:41,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0734,0551,2026-01-09 15:58,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0735,0308,2026-01-09 16:15,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0736,0937,2026-01-09 16:32,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0737,0571,2026-01-09 16:49,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0738,0262,2026-01-09 17:06,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0739,0945,2026-01-09 17:23,Como conversar sem julgar?,familia,normal,sim,sim
+C0740,0095,2026-01-09 17:40,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0741,0690,2026-01-09 17:57,Como conversar sem julgar?,familia,normal,nao,nao
+C0742,0193,2026-01-09 18:14,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0743,0311,2026-01-09 18:31,Como conversar sem julgar?,familia,normal,nao,nao
+C0744,0986,2026-01-09 18:48,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0745,0773,2026-01-09 19:05,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0746,0713,2026-01-09 19:22,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0747,0566,2026-01-09 19:39,Como conversar sem julgar?,familia,normal,sim,sim
+C0748,0390,2026-01-09 19:56,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0749,0316,2026-01-09 20:13,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0750,0904,2026-01-09 20:30,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0751,0780,2026-01-09 20:47,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0752,0380,2026-01-09 21:04,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0753,0577,2026-01-09 21:21,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0754,0268,2026-01-09 21:38,Como conversar sem julgar?,familia,normal,sim,sim
+C0755,0201,2026-01-09 21:55,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0756,0584,2026-01-09 22:12,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0757,0264,2026-01-09 22:29,Como conversar sem julgar?,familia,normal,nao,nao
+C0758,0658,2026-01-09 22:46,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0759,0174,2026-01-09 23:03,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0760,0501,2026-01-09 23:20,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0761,0556,2026-01-09 23:37,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0762,0968,2026-01-09 23:54,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0763,0423,2026-01-10 00:11,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0764,0237,2026-01-10 00:28,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0765,0010,2026-01-10 00:45,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0766,0062,2026-01-10 01:02,Como conversar sem julgar?,familia,normal,nao,nao
+C0767,0007,2026-01-10 01:19,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0768,0543,2026-01-10 01:36,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0769,0294,2026-01-10 01:53,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0770,0826,2026-01-10 02:10,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0771,0099,2026-01-10 02:27,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0772,0635,2026-01-10 02:44,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0773,0274,2026-01-10 03:01,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0774,0983,2026-01-10 03:18,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0775,0250,2026-01-10 03:35,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0776,0670,2026-01-10 03:52,Como conversar sem julgar?,familia,normal,sim,sim
+C0777,0387,2026-01-10 04:09,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0778,0720,2026-01-10 04:26,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0779,0866,2026-01-10 04:43,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0780,0340,2026-01-10 05:00,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0781,0942,2026-01-10 05:17,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0782,0278,2026-01-10 05:34,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0783,0701,2026-01-10 05:51,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0784,0578,2026-01-10 06:08,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0785,0017,2026-01-10 06:25,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0786,0952,2026-01-10 06:42,Como conversar sem julgar?,familia,normal,nao,nao
+C0787,0578,2026-01-10 06:59,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0788,0694,2026-01-10 07:16,Como conversar sem julgar?,familia,normal,nao,nao
+C0789,0758,2026-01-10 07:33,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0790,0706,2026-01-10 07:50,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0791,0998,2026-01-10 08:07,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0792,0448,2026-01-10 08:24,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0793,0349,2026-01-10 08:41,Como conversar sem julgar?,familia,atencao,sim,sim
+C0794,0335,2026-01-10 08:58,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0795,0503,2026-01-10 09:15,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0796,0443,2026-01-10 09:32,Como conversar sem julgar?,familia,normal,nao,nao
+C0797,0677,2026-01-10 09:49,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0798,0634,2026-01-10 10:06,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0799,0731,2026-01-10 10:23,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0800,0158,2026-01-10 10:40,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0801,0650,2026-01-10 10:57,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0802,0325,2026-01-10 11:14,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0803,0006,2026-01-10 11:31,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0804,0780,2026-01-10 11:48,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0805,0090,2026-01-10 12:05,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0806,0571,2026-01-10 12:22,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0807,0092,2026-01-10 12:39,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0808,0612,2026-01-10 12:56,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0809,0013,2026-01-10 13:13,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0810,0798,2026-01-10 13:30,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0811,0573,2026-01-10 13:47,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0812,0702,2026-01-10 14:04,Como conversar sem julgar?,familia,normal,sim,sim
+C0813,0276,2026-01-10 14:21,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0814,0150,2026-01-10 14:38,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0815,0283,2026-01-10 14:55,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0816,0802,2026-01-10 15:12,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0817,0967,2026-01-10 15:29,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0818,0609,2026-01-10 15:46,Como conversar sem julgar?,familia,normal,nao,nao
+C0819,0312,2026-01-10 16:03,Como conversar sem julgar?,familia,normal,sim,sim
+C0820,0341,2026-01-10 16:20,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0821,0338,2026-01-10 16:37,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0822,0308,2026-01-10 16:54,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0823,0712,2026-01-10 17:11,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0824,0988,2026-01-10 17:28,Como conversar sem julgar?,familia,normal,sim,sim
+C0825,0299,2026-01-10 17:45,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0826,0801,2026-01-10 18:02,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0827,0837,2026-01-10 18:19,Como conversar sem julgar?,familia,normal,nao,nao
+C0828,0955,2026-01-10 18:36,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0829,0699,2026-01-10 18:53,Como conversar sem julgar?,familia,normal,sim,sim
+C0830,0473,2026-01-10 19:10,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0831,0852,2026-01-10 19:27,Como conversar sem julgar?,familia,normal,nao,nao
+C0832,0815,2026-01-10 19:44,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0833,0143,2026-01-10 20:01,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0834,0675,2026-01-10 20:18,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0835,0809,2026-01-10 20:35,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0836,0613,2026-01-10 20:52,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0837,0557,2026-01-10 21:09,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0838,0369,2026-01-10 21:26,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0839,0255,2026-01-10 21:43,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0840,0628,2026-01-10 22:00,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0841,0991,2026-01-10 22:17,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0842,0441,2026-01-10 22:34,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0843,0265,2026-01-10 22:51,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0844,0457,2026-01-10 23:08,Como conversar sem julgar?,familia,normal,sim,sim
+C0845,0791,2026-01-10 23:25,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0846,0026,2026-01-10 23:42,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0847,0943,2026-01-10 23:59,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0848,0964,2026-01-11 00:16,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0849,0352,2026-01-11 00:33,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0850,0534,2026-01-11 00:50,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0851,0449,2026-01-11 01:07,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0852,0046,2026-01-11 01:24,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0853,0352,2026-01-11 01:41,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0854,0169,2026-01-11 01:58,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0855,0339,2026-01-11 02:15,Como conversar sem julgar?,familia,normal,sim,sim
+C0856,0238,2026-01-11 02:32,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0857,0191,2026-01-11 02:49,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0858,0756,2026-01-11 03:06,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0859,0399,2026-01-11 03:23,Como conversar sem julgar?,familia,normal,nao,nao
+C0860,0286,2026-01-11 03:40,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0861,0819,2026-01-11 03:57,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0862,0202,2026-01-11 04:14,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0863,0541,2026-01-11 04:31,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0864,0626,2026-01-11 04:48,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0865,0357,2026-01-11 05:05,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0866,0633,2026-01-11 05:22,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0867,0723,2026-01-11 05:39,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0868,0605,2026-01-11 05:56,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0869,0321,2026-01-11 06:13,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0870,0120,2026-01-11 06:30,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0871,0145,2026-01-11 06:47,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0872,0142,2026-01-11 07:04,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0873,0499,2026-01-11 07:21,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0874,0502,2026-01-11 07:38,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0875,0323,2026-01-11 07:55,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0876,0975,2026-01-11 08:12,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0877,0835,2026-01-11 08:29,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0878,0518,2026-01-11 08:46,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0879,0426,2026-01-11 09:03,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0880,0579,2026-01-11 09:20,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0881,0226,2026-01-11 09:37,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0882,0231,2026-01-11 09:54,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0883,0469,2026-01-11 10:11,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0884,0587,2026-01-11 10:28,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0885,0557,2026-01-11 10:45,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0886,0775,2026-01-11 11:02,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0887,0452,2026-01-11 11:19,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0888,0105,2026-01-11 11:36,Como conversar sem julgar?,familia,urgente,sim,sim
+C0889,0461,2026-01-11 11:53,Como conversar sem julgar?,familia,normal,sim,sim
+C0890,0837,2026-01-11 12:10,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0891,0121,2026-01-11 12:27,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0892,0882,2026-01-11 12:44,Como conversar sem julgar?,familia,normal,nao,nao
+C0893,0143,2026-01-11 13:01,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0894,0825,2026-01-11 13:18,Como conversar sem julgar?,familia,atencao,sim,sim
+C0895,0612,2026-01-11 13:35,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0896,0721,2026-01-11 13:52,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0897,0274,2026-01-11 14:09,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0898,0769,2026-01-11 14:26,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0899,0284,2026-01-11 14:43,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0900,0136,2026-01-11 15:00,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0901,0849,2026-01-11 15:17,Como conversar sem julgar?,familia,normal,nao,nao
+C0902,0693,2026-01-11 15:34,Como conversar sem julgar?,familia,atencao,sim,sim
+C0903,0592,2026-01-11 15:51,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0904,0385,2026-01-11 16:08,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0905,0413,2026-01-11 16:25,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0906,0899,2026-01-11 16:42,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0907,0500,2026-01-11 16:59,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0908,0890,2026-01-11 17:16,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0909,0470,2026-01-11 17:33,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0910,0815,2026-01-11 17:50,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0911,0440,2026-01-11 18:07,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0912,0849,2026-01-11 18:24,Como conversar sem julgar?,familia,normal,nao,nao
+C0913,0592,2026-01-11 18:41,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0914,0497,2026-01-11 18:58,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0915,0781,2026-01-11 19:15,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0916,0017,2026-01-11 19:32,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0917,0162,2026-01-11 19:49,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0918,0208,2026-01-11 20:06,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0919,0310,2026-01-11 20:23,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0920,0898,2026-01-11 20:40,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0921,0370,2026-01-11 20:57,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0922,0681,2026-01-11 21:14,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0923,0641,2026-01-11 21:31,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0924,0774,2026-01-11 21:48,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0925,0721,2026-01-11 22:05,Como conversar sem julgar?,familia,normal,sim,sim
+C0926,0489,2026-01-11 22:22,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0927,0232,2026-01-11 22:39,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0928,0837,2026-01-11 22:56,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0929,0433,2026-01-11 23:13,Quais serviços de atendimento posso procurar?,clinica,urgente,sim,sim
+C0930,0235,2026-01-11 23:30,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0931,0826,2026-01-11 23:47,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0932,0377,2026-01-12 00:04,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0933,0793,2026-01-12 00:21,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0934,0694,2026-01-12 00:38,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0935,0577,2026-01-12 00:55,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0936,0451,2026-01-12 01:12,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0937,0644,2026-01-12 01:29,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0938,0631,2026-01-12 01:46,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0939,0089,2026-01-12 02:03,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0940,0127,2026-01-12 02:20,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0941,0440,2026-01-12 02:37,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0942,0254,2026-01-12 02:54,Quero entender melhor o acompanhamento.,tratamento,atencao,sim,sim
+C0943,0255,2026-01-12 03:11,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0944,0708,2026-01-12 03:28,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0945,0675,2026-01-12 03:45,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0946,0622,2026-01-12 04:02,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0947,0662,2026-01-12 04:19,Como conversar sem julgar?,familia,normal,nao,nao
+C0948,0813,2026-01-12 04:36,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0949,0247,2026-01-12 04:53,Como conversar sem julgar?,familia,normal,sim,sim
+C0950,0541,2026-01-12 05:10,Preciso conversar com alguém capacitado.,apoio_emocional,normal,sim,sim
+C0951,0957,2026-01-12 05:27,Como posso apoiar meu familiar?,familia,urgente,sim,sim
+C0952,0882,2026-01-12 05:44,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0953,0700,2026-01-12 06:01,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0954,0978,2026-01-12 06:18,Preciso de orientação para buscar ajuda.,tratamento,atencao,sim,sim
+C0955,0070,2026-01-12 06:35,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0956,0945,2026-01-12 06:52,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0957,0408,2026-01-12 07:09,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0958,0514,2026-01-12 07:26,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0959,0412,2026-01-12 07:43,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0960,0551,2026-01-12 08:00,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0961,0318,2026-01-12 08:17,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0962,0209,2026-01-12 08:34,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0963,0401,2026-01-12 08:51,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0964,0448,2026-01-12 09:08,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0965,0947,2026-01-12 09:25,Como conversar sem julgar?,familia,normal,sim,sim
+C0966,0627,2026-01-12 09:42,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0967,0123,2026-01-12 09:59,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0968,0168,2026-01-12 10:16,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0969,0536,2026-01-12 10:33,Preciso conversar com alguém capacitado.,apoio_emocional,atencao,sim,sim
+C0970,0130,2026-01-12 10:50,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0971,0121,2026-01-12 11:07,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0972,0279,2026-01-12 11:24,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0973,0999,2026-01-12 11:41,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0974,0524,2026-01-12 11:58,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0975,0880,2026-01-12 12:15,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0976,0262,2026-01-12 12:32,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0977,0691,2026-01-12 12:49,Quais serviços de atendimento posso procurar?,clinica,atencao,sim,sim
+C0978,0522,2026-01-12 13:06,Quais serviços de atendimento posso procurar?,clinica,normal,sim,sim
+C0979,0251,2026-01-12 13:23,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0980,0943,2026-01-12 13:40,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0981,0984,2026-01-12 13:57,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
+C0982,0230,2026-01-12 14:14,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0983,0938,2026-01-12 14:31,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0984,0080,2026-01-12 14:48,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0985,0690,2026-01-12 15:05,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0986,0977,2026-01-12 15:22,Como posso apoiar meu familiar?,familia,normal,sim,sim
+C0987,0477,2026-01-12 15:39,Como encontrar apoio na minha região?,clinica,normal,sim,sim
+C0988,0319,2026-01-12 15:56,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,atencao,sim,sim
+C0989,0468,2026-01-12 16:13,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0990,0578,2026-01-12 16:30,Como posso apoiar meu familiar?,familia,normal,nao,nao
+C0991,0249,2026-01-12 16:47,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0992,0792,2026-01-12 17:04,Preciso conversar com alguém capacitado.,apoio_emocional,normal,nao,nao
+C0993,0155,2026-01-12 17:21,Como conversar sem julgar?,familia,normal,sim,sim
+C0994,0025,2026-01-12 17:38,Como posso apoiar meu familiar?,familia,atencao,sim,sim
+C0995,0974,2026-01-12 17:55,Como conversar sem julgar?,familia,normal,sim,sim
+C0996,0674,2026-01-12 18:12,Quero entender melhor o acompanhamento.,tratamento,normal,sim,sim
+C0997,0745,2026-01-12 18:29,Como encontrar apoio na minha região?,clinica,atencao,sim,sim
+C0998,0543,2026-01-12 18:46,Quais sinais indicam que devo procurar um profissional?,sinais_alerta,normal,sim,sim
+C0999,0996,2026-01-12 19:03,Como conversar sem julgar?,familia,normal,sim,sim
+C1000,0096,2026-01-12 19:20,Preciso de orientação para buscar ajuda.,tratamento,normal,sim,sim
