@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>ReViver | Suas informações</title><link rel="stylesheet" href="../css/base.css"></head><body><div class="screen"><div class="app-shell"><main class="page"><a class="back js-back" href="#">‹</a><div class="leaf-watermark">✦</div><h1 class="page-title">Suas informações</h1><p class="page-subtitle">Nos conte um pouco sobre você.</p><form id="profileForm" class="panel form-panel" style="position:relative;z-index:1;max-width:1000px"><div class="form-fields">
+<div class="field"><label for="nome">Nome completo</label><input class="input" id="nome" placeholder="Digite seu nome completo"></div>
+<div class="field"><label for="idade">Idade</label><input class="input" id="idade" type="number" min="0" placeholder="Ex.: 18"></div>
+<div class="field">
+    <label for="substanceSelector">Você faz o uso de qual tipo de substância?</label>
+
+    <div class="multi-select" id="substanceSelector">
+        <button type="button" class="multi-select-button" id="substanceButton" aria-expanded="false">
+            <span id="substanceSelectedText">Selecione</span>
+            <span class="multi-select-arrow">⌄</span>
+        </button>
+
+        <div class="multi-select-options" id="substanceOptions">
+            <label class="multi-option"><input type="checkbox" name="droga" value="Álcool"><span>Álcool</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Maconha"><span>Maconha</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Cocaína"><span>Cocaína</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Crack"><span>Crack</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Heroína"><span>Heroína</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Cigarro"><span>Cigarro</span></label>
+            <label class="multi-option"><input type="checkbox" name="droga" value="Outra"><span>Outra</span></label>
+        </div>
+    </div>
+</div>
+</div>
+<div class="field"><label for="situacao">Qual a situação que você está passando?</label><textarea class="textarea" id="situacao" placeholder="Conte um pouco sobre o que está acontecendo..."></textarea></div>
+<button class="primary-btn" type="submit">Continuar</button></div></form></main></div></div><script src="../js/app.js"></script></body></html>
