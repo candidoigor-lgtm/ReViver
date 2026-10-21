@@ -10,7 +10,7 @@
     </defs>
     <rect width="100%" height="100%" rx="15" fill="url(#purpleGrad)" />
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF" letter-spacing="3">
-      IMPACTO JOVEM
+      REVIVER
     </text>
     <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#E0B0FF" opacity="0.9">
       Módulos de Chatbot, Dashboard e Documentação Técnica
@@ -21,7 +21,7 @@
 <br>
 
 ## 🚀 Sobre o Projeto
-O projeto **Impacto Jovem** é estruturado de forma independente entre camadas de **Backend** e **Frontend**. nosso objetivo é ajudar familiares ou o proprio uuario a sair das drogas os guiando para não ter mais o vicio e ajudar em momentos de crise
+O projeto **ReViver** é estruturado de forma independente entre camadas de **Backend** e **Frontend**. o objetivo é orientar pessoas que buscam apoio relacionado ao uso de substâncias e familiares que desejam ajudar, como complemento ao acompanhamento de profissionais de saúde
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -43,7 +43,9 @@ Conheça os desenvolvedores que dão vida a este propósito:
 
 | Nome | Função / Atuação | GitHub |
 | :--- | :--- | :--- |
+| **DAVID** |apoio  emocional| [@david](https://github.com) |
 | **IGOR** | Desenvolvedor | [@candidoigor-lgtm](https://github.com/candidoigor-lgtm) |
+| **LETICIA** | a | [@leticia](https://github.com) |
 | **MAICOM** | | [@maicom](https://github.com) |
 | **MAJulia** |  | [@mariajulia](https://github.com) |
 | **GABRIEL TERRA** |mentiroso= Pinóquio  | [@gabrielterra](https://github.com) |
@@ -53,7 +55,7 @@ Conheça os desenvolvedores que dão vida a este propósito:
 ---
 
 <p align="center">
-  <sub>Desenvolvido com 💜 pela equipe Impacto Jovem.</sub>
+  <sub>Desenvolvido com 💜 pela equipe ReViver.</sub>
 </p>
 
 ## Backend da avaliação de DS

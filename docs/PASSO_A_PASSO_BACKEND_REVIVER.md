@@ -112,7 +112,7 @@ Antes de enviar, confira se `.env`, `.venv/` e `backend/reviver.db` estão ignor
 ```bash
 git status
 git add backend docs/PASSO_A_PASSO_BACKEND_REVIVER.md .gitignore
- git commit -m "Implementa backend ReViver com usuarios e conversas relacionadas"
+git commit -m "Implementa backend ReViver com usuarios e conversas relacionadas"
 git push
 ```
 
@@ -126,3 +126,14 @@ git push
 - `analise_csv.py`: análises já existentes dos arquivos CSV.
 
 Os CSVs ampliados contêm dados sintéticos para testes. Não representam usuários, clínicas ou resultados reais e não devem ser usados como evidência clínica.
+
+
+## 12. Executar os testes automatizados
+
+Com o ambiente virtual ativado e dentro da pasta `backend/`, execute:
+
+```bash
+python -m pytest -q test_backend.py
+```
+
+O teste automatizado cria um usuário, cria uma conversa vinculada a ele, consulta a conversa e verifica os erros para identificadores inexistentes. O resultado esperado é `1 passed`. Para a evidência da avaliação, capture a tela do terminal com esse resultado e a tela do `/docs` mostrando as rotas.
