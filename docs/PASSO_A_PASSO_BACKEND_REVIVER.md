@@ -137,3 +137,15 @@ python -m pytest -q test_backend.py
 ```
 
 O teste automatizado cria um usuário, cria uma conversa vinculada a ele, consulta a conversa e verifica os erros para identificadores inexistentes. O resultado esperado é `1 passed`. Para a evidência da avaliação, capture a tela do terminal com esse resultado e a tela do `/docs` mostrando as rotas.
+
+
+## 13. Executar e validar os CSVs integrados
+
+A partir da raiz do projeto, execute:
+
+```bash
+cd backend
+python executar_csv.py
+```
+
+O programa lê os quatro CSVs operacionais, mostra estatísticas básicas e verifica os vínculos `conversas.id_usuario` → `usuarios.id_usuario`. Se a validação falhar, confira os IDs apontados no terminal. Os CSVs são dados sintéticos de demonstração.

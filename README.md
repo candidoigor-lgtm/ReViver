@@ -72,3 +72,28 @@ python -m uvicorn api_analise:app --reload --host 127.0.0.1 --port 8001
 ```
 
 Depois acesse `http://127.0.0.1:8001/docs`. Por padrão, o banco de cadastro usa SQLite local. Os CSVs incluídos são dados sintéticos para testes, não registros reais de pacientes ou clínicas.
+
+
+## Executar os dados CSV de demonstração
+
+Os arquivos operacionais `usuarios.csv`, `conversas.csv`, `clinicas.csv` e `substancias.csv` usam agora o pacote de demonstração integrado. As versões anteriores foram preservadas em `dados_originais_csv/`.
+
+Para validar os CSVs no Linux, entre na pasta do projeto e execute:
+
+```bash
+cd backend
+python executar_csv.py
+```
+
+O script mostra a quantidade de registros, colunas, campos vazios e duplicações, além de validar se cada conversa aponta para um usuário existente.
+
+Para consultar as análises pela API:
+
+```bash
+python -m pip install -r requirements.txt
+python -m uvicorn api_analise:app --reload --host 127.0.0.1 --port 8001
+```
+
+Abra `http://127.0.0.1:8001/docs` e execute as rotas `/analise/resumo`, `/analise/qualidade`, `/analise/usuarios`, `/analise/clinicas` e `/analise/conversas`.
+
+**Importante:** os registros do pacote CSV são sintéticos para demonstração. Clínicas, endereços e telefones não são reais e não devem ser usados para encaminhamento de pessoas.
