@@ -1,0 +1,301 @@
+﻿id_conversa,id_usuario,data_hora,pergunta_usuario,categoria_pergunta,nivel_de_urgencia,necessita_profissional,encaminhamento_realizado
+C00001,U0048,2026-09-20 15:00,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00002,U0019,2026-08-12 22:24,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00003,U0006,2026-09-03 12:35,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00004,U0006,2026-08-20 10:55,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00005,U0088,2026-10-01 00:56,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00006,U0014,2026-10-11 08:11,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00007,U0072,2026-09-26 19:51,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00008,U0096,2026-08-22 21:09,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00009,U0021,2026-09-07 20:40,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00010,U0004,2026-10-07 09:02,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00011,U0043,2026-10-13 08:30,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00012,U0086,2026-08-25 14:50,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00013,U0021,2026-09-05 03:40,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00014,U0005,2026-08-21 13:54,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00015,U0026,2026-09-02 03:50,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00016,U0040,2026-08-21 14:59,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00017,U0004,2026-09-06 14:27,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00018,U0043,2026-10-19 00:12,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00019,U0009,2026-09-02 07:05,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00020,U0083,2026-09-06 17:06,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00021,U0087,2026-08-31 11:24,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00022,U0004,2026-10-20 03:55,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00023,U0034,2026-09-23 04:19,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00024,U0034,2026-08-11 04:48,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00025,U0077,2026-09-01 19:09,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00026,U0094,2026-09-10 01:19,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00027,U0078,2026-08-11 20:37,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00028,U0050,2026-08-18 15:14,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00029,U0033,2026-10-04 20:21,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00030,U0056,2026-09-17 15:46,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00031,U0069,2026-09-03 11:39,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00032,U0056,2026-09-30 19:02,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00033,U0043,2026-08-29 21:45,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00034,U0085,2026-10-05 20:19,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00035,U0039,2026-08-29 11:38,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00036,U0086,2026-08-31 00:33,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00037,U0052,2026-09-20 19:07,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00038,U0017,2026-09-08 14:28,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00039,U0086,2026-10-01 23:37,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00040,U0096,2026-09-26 08:36,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00041,U0073,2026-09-07 07:05,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00042,U0071,2026-08-28 23:49,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00043,U0037,2026-09-09 11:06,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00044,U0075,2026-09-29 22:13,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00045,U0042,2026-09-10 13:05,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00046,U0057,2026-09-16 20:40,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00047,U0061,2026-09-30 07:16,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00048,U0011,2026-09-17 06:01,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00049,U0085,2026-08-31 20:13,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00050,U0012,2026-10-01 13:44,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00051,U0040,2026-10-13 17:57,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00052,U0026,2026-08-03 13:21,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00053,U0006,2026-09-13 13:57,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00054,U0079,2026-09-11 18:52,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00055,U0054,2026-08-19 00:45,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00056,U0092,2026-09-15 07:59,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00057,U0052,2026-08-14 18:22,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00058,U0084,2026-10-08 16:30,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00059,U0099,2026-10-11 04:29,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00060,U0055,2026-08-17 08:13,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00061,U0090,2026-09-12 14:49,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00062,U0007,2026-08-24 00:22,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00063,U0016,2026-08-13 11:17,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00064,U0060,2026-09-21 04:59,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00065,U0077,2026-10-09 01:52,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00066,U0057,2026-10-14 12:24,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00067,U0093,2026-09-09 04:13,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00068,U0071,2026-08-15 19:41,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00069,U0096,2026-09-11 07:11,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00070,U0034,2026-10-16 18:42,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00071,U0082,2026-10-10 00:56,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00072,U0100,2026-09-14 10:37,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00073,U0081,2026-08-26 07:52,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00074,U0057,2026-10-05 06:45,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00075,U0037,2026-08-26 01:34,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00076,U0043,2026-09-19 11:58,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00077,U0011,2026-08-15 01:29,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00078,U0030,2026-10-03 11:57,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00079,U0020,2026-08-07 04:18,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00080,U0054,2026-08-31 10:49,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00081,U0070,2026-09-08 04:16,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00082,U0008,2026-10-16 03:28,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00083,U0054,2026-10-10 09:38,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00084,U0075,2026-10-18 07:33,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00085,U0098,2026-09-04 22:57,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00086,U0062,2026-09-02 08:25,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00087,U0039,2026-10-18 00:23,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00088,U0054,2026-10-08 08:58,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00089,U0095,2026-10-13 03:20,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00090,U0078,2026-09-14 18:33,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00091,U0029,2026-09-10 00:05,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00092,U0063,2026-09-05 17:28,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00093,U0044,2026-10-06 05:59,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00094,U0022,2026-08-12 22:48,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00095,U0080,2026-08-03 18:54,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00096,U0051,2026-09-21 16:55,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00097,U0085,2026-08-08 23:23,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00098,U0083,2026-08-13 16:26,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00099,U0060,2026-08-05 21:50,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00100,U0034,2026-08-31 03:06,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00101,U0028,2026-08-31 02:00,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00102,U0044,2026-08-26 15:51,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00103,U0097,2026-08-24 07:05,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00104,U0011,2026-08-03 02:20,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00105,U0096,2026-08-06 01:46,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00106,U0045,2026-09-29 12:15,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00107,U0009,2026-10-08 23:38,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00108,U0004,2026-08-19 11:30,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00109,U0003,2026-08-15 04:53,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00110,U0031,2026-09-13 10:30,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00111,U0086,2026-09-21 16:00,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00112,U0028,2026-10-04 00:00,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00113,U0033,2026-08-16 14:32,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00114,U0078,2026-10-08 09:52,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00115,U0092,2026-10-11 03:06,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00116,U0021,2026-08-11 04:08,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00117,U0075,2026-08-29 17:28,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00118,U0074,2026-09-06 10:30,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00119,U0092,2026-08-08 06:01,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00120,U0076,2026-08-10 14:36,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00121,U0090,2026-10-17 17:29,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00122,U0088,2026-10-13 15:42,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00123,U0016,2026-10-11 13:41,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00124,U0006,2026-09-18 19:47,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00125,U0055,2026-08-07 14:38,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00126,U0065,2026-08-02 11:38,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00127,U0054,2026-08-10 22:33,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00128,U0056,2026-09-28 04:27,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00129,U0059,2026-09-09 23:20,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00130,U0023,2026-09-29 12:56,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00131,U0035,2026-10-13 21:32,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00132,U0069,2026-09-12 15:31,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00133,U0056,2026-08-25 18:19,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00134,U0042,2026-10-15 22:45,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00135,U0012,2026-09-11 08:47,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00136,U0032,2026-09-22 04:51,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00137,U0079,2026-08-31 22:52,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00138,U0004,2026-10-17 18:56,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00139,U0042,2026-09-14 17:04,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00140,U0028,2026-10-12 22:53,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00141,U0034,2026-08-26 18:55,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00142,U0077,2026-09-20 22:08,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00143,U0002,2026-08-18 17:22,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00144,U0011,2026-10-05 21:01,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00145,U0053,2026-09-20 20:48,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00146,U0098,2026-10-03 04:39,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00147,U0061,2026-09-11 03:03,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00148,U0003,2026-08-28 02:46,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00149,U0029,2026-10-03 07:13,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00150,U0032,2026-09-30 18:26,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00151,U0075,2026-09-13 09:51,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00152,U0071,2026-09-01 14:56,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00153,U0055,2026-08-31 10:37,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00154,U0046,2026-08-25 23:49,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00155,U0040,2026-08-22 07:37,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00156,U0016,2026-08-30 01:19,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00157,U0016,2026-10-09 17:01,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00158,U0089,2026-08-18 18:25,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00159,U0028,2026-08-26 12:01,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00160,U0093,2026-10-09 12:41,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00161,U0068,2026-08-27 02:13,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00162,U0013,2026-08-28 07:09,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00163,U0030,2026-08-17 15:59,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00164,U0039,2026-10-04 18:41,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00165,U0069,2026-08-26 07:14,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00166,U0006,2026-09-20 16:49,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00167,U0038,2026-09-28 09:26,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00168,U0097,2026-08-10 16:06,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00169,U0002,2026-08-27 05:08,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00170,U0061,2026-09-10 10:13,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00171,U0044,2026-08-06 00:14,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00172,U0033,2026-08-11 17:13,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00173,U0009,2026-09-15 02:14,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00174,U0010,2026-09-27 15:02,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00175,U0088,2026-08-15 03:27,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00176,U0020,2026-08-28 23:44,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00177,U0011,2026-08-12 02:45,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00178,U0072,2026-09-25 12:31,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00179,U0077,2026-08-21 21:01,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00180,U0100,2026-09-04 22:56,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00181,U0058,2026-08-28 09:34,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00182,U0076,2026-08-29 03:06,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00183,U0073,2026-08-06 19:34,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00184,U0079,2026-10-09 18:13,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00185,U0027,2026-08-25 10:07,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00186,U0085,2026-08-15 15:05,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00187,U0031,2026-09-20 13:50,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00188,U0010,2026-08-01 13:50,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00189,U0053,2026-10-03 01:57,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00190,U0077,2026-08-27 20:15,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00191,U0005,2026-08-27 13:22,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00192,U0091,2026-10-04 07:41,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00193,U0059,2026-10-02 21:36,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00194,U0030,2026-10-12 01:02,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00195,U0081,2026-09-30 12:22,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00196,U0026,2026-08-11 18:43,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00197,U0070,2026-09-29 06:46,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00198,U0020,2026-10-15 13:48,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00199,U0019,2026-08-06 18:16,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00200,U0022,2026-09-24 11:53,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00201,U0096,2026-08-27 14:28,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00202,U0057,2026-09-12 23:53,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00203,U0089,2026-10-04 00:35,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00204,U0052,2026-09-15 21:17,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00205,U0070,2026-09-10 04:17,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00206,U0011,2026-08-04 23:04,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00207,U0056,2026-09-25 06:49,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00208,U0033,2026-08-09 15:30,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00209,U0030,2026-09-23 18:35,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00210,U0003,2026-09-22 18:49,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00211,U0006,2026-09-13 03:49,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00212,U0067,2026-08-26 15:38,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00213,U0024,2026-09-10 00:12,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00214,U0082,2026-08-09 15:19,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00215,U0061,2026-09-07 12:03,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00216,U0043,2026-10-01 07:55,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00217,U0014,2026-08-31 08:28,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00218,U0053,2026-08-27 13:37,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00219,U0085,2026-10-14 09:15,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00220,U0098,2026-08-04 16:09,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00221,U0059,2026-08-29 23:04,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00222,U0033,2026-08-11 21:14,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00223,U0099,2026-10-19 01:25,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00224,U0066,2026-09-30 04:40,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00225,U0070,2026-09-07 22:45,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00226,U0007,2026-09-17 12:32,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00227,U0047,2026-10-09 04:28,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00228,U0064,2026-10-09 12:13,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00229,U0007,2026-08-25 15:23,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00230,U0071,2026-08-27 13:12,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00231,U0057,2026-08-12 09:15,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00232,U0004,2026-10-13 02:07,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00233,U0031,2026-08-29 14:50,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00234,U0071,2026-09-20 14:24,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00235,U0053,2026-08-21 18:51,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00236,U0015,2026-08-12 00:36,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00237,U0083,2026-09-15 16:43,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00238,U0092,2026-09-16 15:38,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00239,U0091,2026-09-08 03:39,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00240,U0062,2026-08-23 12:26,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00241,U0059,2026-08-14 11:58,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00242,U0050,2026-09-24 21:21,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00243,U0066,2026-10-18 23:29,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00244,U0009,2026-10-10 15:56,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00245,U0054,2026-10-12 00:47,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00246,U0065,2026-10-15 00:31,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00247,U0001,2026-10-06 10:04,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00248,U0039,2026-09-23 02:51,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00249,U0085,2026-10-19 02:11,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00250,U0020,2026-09-19 08:32,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00251,U0062,2026-08-31 14:13,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00252,U0071,2026-09-04 16:01,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00253,U0059,2026-10-19 11:40,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00254,U0025,2026-09-22 09:06,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00255,U0050,2026-10-18 05:59,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00256,U0100,2026-08-05 07:20,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00257,U0041,2026-10-04 12:35,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00258,U0049,2026-09-30 17:51,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00259,U0084,2026-09-15 10:03,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00260,U0005,2026-09-16 01:16,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00261,U0076,2026-10-19 11:53,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00262,U0013,2026-08-10 09:49,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00263,U0068,2026-08-02 17:31,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00264,U0093,2026-09-07 15:36,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00265,U0084,2026-08-08 03:27,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00266,U0061,2026-09-01 03:35,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00267,U0080,2026-09-29 11:35,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00268,U0011,2026-10-17 21:58,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00269,U0087,2026-09-04 22:08,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00270,U0041,2026-10-19 17:44,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00271,U0070,2026-09-26 12:51,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00272,U0009,2026-09-27 18:47,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00273,U0088,2026-08-22 00:57,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00274,U0096,2026-09-09 20:01,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00275,U0013,2026-09-10 17:13,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00276,U0022,2026-08-03 23:14,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00277,U0006,2026-10-12 19:12,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00278,U0008,2026-09-02 23:04,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00279,U0048,2026-08-14 14:00,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00280,U0032,2026-09-07 20:08,Quero conversar com um profissional de saúde.,profissional,atencao,sim,sim
+C00281,U0073,2026-08-16 19:20,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00282,U0023,2026-09-25 19:27,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00283,U0049,2026-10-02 12:19,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00284,U0031,2026-09-23 09:55,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00285,U0019,2026-09-12 07:23,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00286,U0082,2026-09-12 03:56,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00287,U0033,2026-10-13 13:44,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00288,U0060,2026-10-02 00:15,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00289,U0070,2026-08-08 01:21,Quero entender melhor os efeitos de uma substância.,substancias,normal,nao,nao
+C00290,U0057,2026-09-23 19:34,Preciso de orientação para marcar uma consulta.,servicos,normal,nao,nao
+C00291,U0039,2026-10-03 04:00,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00292,U0033,2026-10-17 06:35,Quais são os próximos passos para procurar ajuda?,encaminhamento,normal,sim,nao
+C00293,U0039,2026-09-05 08:22,Como conversar com alguém que não quer aceitar ajuda?,familia,atencao,sim,nao
+C00294,U0062,2026-08-22 22:11,Quais serviços podem orientar minha família?,servicos,normal,nao,nao
+C00295,U0049,2026-09-03 00:09,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00296,U0074,2026-10-03 23:35,Gostaria de saber como buscar acompanhamento profissional.,tratamento,atencao,sim,sim
+C00297,U0038,2026-10-15 21:14,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
+C00298,U0085,2026-08-26 07:36,Estou preocupado com o progresso do acompanhamento.,acompanhamento,atencao,sim,sim
+C00299,U0002,2026-10-19 01:46,Como posso apoiar sem tentar resolver tudo sozinho?,familia,normal,nao,nao
+C00300,U0088,2026-09-25 12:42,Como posso apoiar alguém da minha família sem julgar?,familia,normal,nao,nao
